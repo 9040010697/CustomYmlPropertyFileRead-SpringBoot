@@ -18,3 +18,4 @@ spring:
   
 secrets: 
   file-path: classpath:/etc/config/secrets.yml
+  #file-path: file:///C:/etc/config/secrets.yml
